@@ -1,3 +1,2 @@
-Link dataset yang digunakan:
-https://www.kaggle.com/datasets/juanzi/trashcat
+[Dataset Source](https://www.kaggle.com/datasets/juanzi/trashcat)
 
